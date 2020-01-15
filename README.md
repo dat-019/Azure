@@ -15,3 +15,28 @@ Official Microsoft Developer YouTube Channel: https://www.youtube.com/channel/UC
 Download the Azure SDK’s for .NET, PowerShell, CLI and other languages: https://azure.microsoft.com/en-us/downloads/
 
 Official Github Repository for PowerShell Scripts: https://github.com/Azure/azure-powershell
+
+
+Amazing Microsoft Resources
+
+Here are some official Microsoft websites that you really should bookmark when studying for the AZ-203 exam:
+
+
+Azure Code Samples:
+
+https://azure.microsoft.com/en-us/resources/samples/?sort=0
+
+
+Official Azure Documentation:
+
+https://docs.microsoft.com/en-us/azure/
+
+
+Azure REST API Browser
+
+https://docs.microsoft.com/en-us/rest/api/?view=Azure
+
+
+Microsoft has a Github page that contains 12 labs for AZ-203:
+https://microsoftlearning.github.io/AZ-203-DevelopingSolutionsforMicrosoftAzure/
+This gives you step-by-step instructions for creating resources in the Azure Portal, and even deploying sample code into web apps.
