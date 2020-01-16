@@ -1,0 +1,4 @@
+Create a Batch Account.
+
+Azure Batch Documentation: https://docs.microsoft.com/en-us/azure/batch/
+Azure Batch Samples: https://github.com/Azure-Samples/azure-batch-samples

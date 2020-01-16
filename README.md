@@ -40,3 +40,8 @@ https://docs.microsoft.com/en-us/rest/api/?view=Azure
 Microsoft has a Github page that contains 12 labs for AZ-203:
 https://microsoftlearning.github.io/AZ-203-DevelopingSolutionsforMicrosoftAzure/
 This gives you step-by-step instructions for creating resources in the Azure Portal, and even deploying sample code into web apps.
+
+
+Learning Categories:
+1. Virtual Machines
+2. Azure Batch Services
